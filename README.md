@@ -1,1 +1,2 @@
-# Bumps-and-Potholes-_Detection-Deep-Learning-
+# Major-Project-Sem-7
+Bumps and Phothole  Detection
